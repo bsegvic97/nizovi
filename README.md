@@ -1,2 +1,0 @@
-# nizovi
-Created with CodeSandbox
